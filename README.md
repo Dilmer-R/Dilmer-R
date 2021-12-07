@@ -1,9 +1,19 @@
-<img src="img/full-stack-development-main.jpg" height="500px" width="100%">
-Hello, my name is Dilmer Rojas Castañeda, this is my github profile where I upload my main repositories and everything related to programming and web development, then I will be uploading many of my web development and programming projects, I am also currently studying:
+<img src="img/full-stack-development-main.jpg" height="500px" width="1000px">
+<h1 align="center">💻FULL-STACK DEVELOPER💻</h1>
 
-HTML
-CSS
-JavaScript
-Python
-Java
-PHP and everything shown in the img
+<h3>❤Presentation❤</h3>
+
+<p>
+  Hello, my name is Dilmer Rojas Castañeda, this is my github profile where are my projects that I am doing daily in different programming languages ​​and as well as web development.
+</p>
+
+<h3>📑My information📑</h3>
+
+<p>Nationality:
+Peruvian.</p>
+
+<p>Idiom:
+Spanish.</p>
+
+<p>I live in: 
+Peru - La Libertad - Trujillo.</p>
