@@ -20,5 +20,4 @@
     # Idiomas:
       - Inglés nivel Intermedio
       - Español completo
-      - Frances nivel Básico
-  
+      
