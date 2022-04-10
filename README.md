@@ -1,19 +1,24 @@
-<img src="img/full-stack-development-main.jpg" height="500px" width="1000px">
-<h1 align="center">💻FULL-STACK DEVELOPER💻</h1>
+<h1 align="center">Mi Perfil</h1>
+<h2 align="center"> Laureano Rojas Castañeda</h2>
 
-<h3>❤Presentation❤</h3>
-
-<p>
-  Hello, my name is Dilmer Rojas Castañeda, this is my github profile where are my projects that I am doing daily in different programming languages ​​and as well as web development.
-</p>
-
-<h3>📑My information📑</h3>
-
-<p>Nationality:
-Peruvian.</p>
-
-<p>Idiom:
-Spanish.</p>
-
-<p>I live in: 
-Peru - La Libertad - Trujillo.</p>
+- Actualmente estoy especializandome en Ciberseguridad y Hacking Ético.
+    # Mis habilidades:
+      - SysAdmin Linux
+      - Redes
+      - Pentesting wi-fi
+      - Hacking Web
+- Tambien soy desarrollador de software.
+    # Mis habilidades:
+      - JavaScript(React)
+      - Python
+      - Bash
+      - Java
+      - PHP
+      - HTML, CSS
+      - Bases de Datos
+- Otros:
+    # Idiomas:
+      - Inglés nivel Intermedio
+      - Español completo
+      - Frances nivel Básico
+  
