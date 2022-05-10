@@ -46,12 +46,15 @@
   <h4>Proyect React</h4>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilmer-R&repo=PROY-REACT" alt="">
   <br/>
-  <h4> Prep Henry JavaScript</h4>
+  <h4> Preparing Henry JavaScript</h4>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilmer-R&repo=Curso.Prep.Henry" alt="">
 
   <h4> ✅ Back-End</h4>
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+  
+  <h4>Proyect Python</h4>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilmer-R&repo=Python-TK" alt="">
   
   <h4>📌 Framekorks</h4>
   
