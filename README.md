@@ -1,3 +1,3 @@
-<h1 align="center">Mi Perfil</h1>
-<h2 align="center"> Laureano Rojas Castañeda</h2>
-
+<div align="center">
+  <h1>Hello, Welcome to my profile</h1>
+</div>
