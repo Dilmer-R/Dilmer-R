@@ -1,6 +1,6 @@
 <div align="center">
   <h1> 👋 Hello, Welcome to my profile</h1>
-  <p>📢My name is Dilmer Rojas, a guy passionate about the world of programming, as well as ethical hacking too📚 Below I present the platforms where you can contact me, my social networks and my skills ⚙️.</p>
+  <p>📢My name is Dilmer Rojas, a guy passionate about the world of programming📚, Below I present the platforms where you can contact me, my social networks and my skills ⚙️.</p>
 </div>
 <div align="center">
   <h3>📱 Contact</h3>
