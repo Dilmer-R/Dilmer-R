@@ -52,6 +52,7 @@
   <h4> ✅ Back-End</h4>
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red)
   
   <h4>Proyect Python</h4>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilmer-R&repo=Python-TK" alt="">
