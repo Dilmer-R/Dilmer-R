@@ -24,49 +24,58 @@
   <h3>🚀 Skills in Programing</h3>
   <br/>
 </div>
-  <h4> ✅ Front-End</h4>
+  <div align='center'>
+  <h4> ✅ Skills in Front-End</h4>
   
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-  <h4>📌 Superset Javascript</h4>
-  
-  ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  
-  <h4>📌 CSS preprocessors</h4>
-  
   ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
- 
-  <h4>📌 Framekorks</h4>
-  
-  
-  ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![BT](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![JQ](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-
-
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  
+  </div>
+  
+  - 📌 Extensive knowledge of HTML, CSS and Javascript.
+  - 📌 Handling asynchronous requests, partial page updates, and AJAX.
+  - 📌 Handling of CSS preprocessors: less and sass.
+  - 📌 Management of the BOOTSTRAP framework.
+  - 📌 Extensive knowledge about the use of the JQuery library.
+  - 📌 Management of the DOM
+  - 📌 Management of the react library to build UI:
+    - 🚀React-State-LifeCycle
+    - 🚀React Routing
+    - 🚀React Forms
+    - 🚀Redux
+    - 🚀React Redux
+    - 🚀React Hooks
+  
+  
   <h4>Proyect React</h4>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilmer-R&repo=PROY-REACT" alt="">
   <br/>
-  <h4> Preparing Henry JavaScript</h4>
+  <h4> Henry P. Javascript</h4>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilmer-R&repo=Curso.Prep.Henry" alt="">
 
-  <h4> ✅ Back-End</h4>
+  <h4 align='center'> ✅ Skills in Back-End</h4>
+  <div align='center'>
+  </div>
   
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red)
-  
-  <h4>Proyect Python</h4>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilmer-R&repo=Python-TK" alt="">
-  
-  <h4>📌 Framekorks</h4>
-  
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![DJango](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  
+  - 📌 Python
+  - 📌 Algorithm Domain
+  - 📌 API (REST y SOAP)
+  - 📌 NodeJS handling:
+    - Promises
+    - Web Server
+    - Advanced Promises
+    - Express
+    - Testing
+    - Async Await
+
+
+<h4> Others </h4>
+
 ![X](https://github-readme-stats.vercel.app/api?username=Dilmer-R&theme=blue-green)
+
 ![V](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilmer-R&theme=blue-green)
