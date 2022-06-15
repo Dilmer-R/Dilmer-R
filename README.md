@@ -44,7 +44,7 @@
   - 📌 Extensive knowledge about the use of the JQuery library.
   - 📌 Management of the DOM
   - 📌 Management of the react library to build UI:
-    - 🚀React-State-LifeCycle
+    - 🚀React State LifeCycle
     - 🚀React Routing
     - 🚀React Forms
     - 🚀Redux
