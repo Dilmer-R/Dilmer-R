@@ -37,7 +37,7 @@
   
   </div>
   
-  - 📌 Extensive knowledge of HTML, CSS and Javascript.
+  - 📌 Extensive knowledge of HTML5, CSS3 and Javascript.
   - 📌 Handling asynchronous requests, partial page updates, and AJAX.
   - 📌 Handling of CSS preprocessors: less and sass.
   - 📌 Management of the BOOTSTRAP framework.
