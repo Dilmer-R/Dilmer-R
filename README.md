@@ -3,7 +3,7 @@
   
   ![react](https://github.com/Dilmer-R/Dilmer-R/blob/ced77056c63409745867400fb7cab68614aab3d2/react.gif)
   
-  <p>📢My name is Dilmer Rojas, a guy passionate about the world of programming📚, Below I present the platforms where you can contact me, my social networks and my skills ⚙️.</p>
+  <p>📢I am guy passionate about the world of programming📚, Below I present the platforms where you can contact me, my social networks and my skills ⚙️.</p>
 </div>
 <div align="center">
   <h3>📱 Contact</h3>
