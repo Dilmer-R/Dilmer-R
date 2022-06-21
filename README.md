@@ -66,12 +66,12 @@
   - 📌 Algorithm Domain
   - 📌 API (REST y SOAP)
   - 📌 NodeJS handling:
-    - Promises
-    - Web Server
-    - Advanced Promises
-    - Express
-    - Testing
-    - Async Await
+    - 🚀Promises
+    - 🚀Web Server
+    - 🚀Advanced Promises
+    - 🚀Express
+    - 🚀Testing
+    - 🚀Async Await
 
 
 <h4> Others </h4>
