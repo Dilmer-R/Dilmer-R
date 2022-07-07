@@ -3,7 +3,7 @@
   
   ![react](https://github.com/Dilmer-R/Dilmer-R/blob/ced77056c63409745867400fb7cab68614aab3d2/react.gif)
   
-  <p>📢I am Software Enginner📚, Below I present the platforms where you can contact me, my social networks and my skills ⚙️.</p>
+  <p>📢I am Software Developer📚, Below I present the platforms where you can contact me, my social networks and my skills ⚙️.</p>
 </div>
 <div align="center">
   <h3>📱 Contact</h3>
